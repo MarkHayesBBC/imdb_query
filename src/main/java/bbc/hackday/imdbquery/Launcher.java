@@ -19,7 +19,8 @@ public class Launcher {
 		ConfigurableApplicationContext springContext = SpringApplication.run(Launcher.class);
 		//S3Client.downloadAllIMDBFiles();
 		//FileHandler.unzipFile(new File("D:/hackday_data/" + ImdbFile.PRICIPALS.getFileName()));
-		OneToManyConverter.convert(new File("D:/hackday_data/" + ImdbFile.PRICIPALS.getFileName()));
+		//OneToManyConverter.convert(new File("D:/hackday_data/" + ImdbFile.PRICIPALS.getFileName()));
+		//OneToManyConverter.convert(new File("D:/hackday_data/" + ImdbFile.NAME.getFileName()), 5);
 	}
 
 

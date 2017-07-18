@@ -1,0 +1,8 @@
+bbc\hackday\imdbquery\Launcher.class
+bbc\hackday\imdbquery\filehandling\OneToManyConverter.class
+bbc\hackday\imdbquery\ImdbFile.class
+bbc\hackday\imdbquery\restcontroller\RestController.class
+bbc\hackday\imdbquery\filehandling\FileHandler.class
+bbc\hackday\imdbquery\restcontroller\RequestHandler.class
+bbc\hackday\imdbquery\scvclient\S3Client.class
+bbc\hackday\imdbquery\restcontroller\RequestHandlerImpl.class

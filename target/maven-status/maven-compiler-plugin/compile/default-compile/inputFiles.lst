@@ -1,4 +1,8 @@
-D:\Workspace\imdb_query\src\main\java\Launcher.java
-D:\Workspace\imdb_query\src\main\java\restcontroller\RequestHandlerImpl.java
-D:\Workspace\imdb_query\src\main\java\restcontroller\RequestHandler.java
-D:\Workspace\imdb_query\src\main\java\restcontroller\RestController.java
+D:\Workspace\imdb_query\src\main\java\bbc\hackday\imdbquery\filehandling\FileHandler.java
+D:\Workspace\imdb_query\src\main\java\bbc\hackday\imdbquery\restcontroller\RequestHandlerImpl.java
+D:\Workspace\imdb_query\src\main\java\bbc\hackday\imdbquery\ImdbFile.java
+D:\Workspace\imdb_query\src\main\java\bbc\hackday\imdbquery\restcontroller\RequestHandler.java
+D:\Workspace\imdb_query\src\main\java\bbc\hackday\imdbquery\filehandling\OneToManyConverter.java
+D:\Workspace\imdb_query\src\main\java\bbc\hackday\imdbquery\Launcher.java
+D:\Workspace\imdb_query\src\main\java\bbc\hackday\imdbquery\restcontroller\RestController.java
+D:\Workspace\imdb_query\src\main\java\bbc\hackday\imdbquery\scvclient\S3Client.java

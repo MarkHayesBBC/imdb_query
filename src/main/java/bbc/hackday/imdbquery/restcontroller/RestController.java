@@ -12,7 +12,7 @@ import java.util.Map;
 
 /**
  * Main Request Mappings used to control application. Some of these operations are only valid for testing locally, on INT, or on TEST. This is controlled by the spring profile
- **/
+
 @org.springframework.web.bind.annotation.RestController
 public class RestController {
 
@@ -36,4 +36,5 @@ public class RestController {
         model.put("message", this.message);
         return "welcome";
     }
-}
+
+}**/
